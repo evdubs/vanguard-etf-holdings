@@ -166,7 +166,7 @@
         (sector-industry "Consumer Discretionary" "Household Durables")
         "Household Appliances"
         (sector-industry "Consumer Discretionary" "Household Durables")
-        "Houseware & Specialties"
+        "Housewares & Specialties"
         (sector-industry "Consumer Discretionary" "Household Durables")
         "Leisure Products"
         (sector-industry "Consumer Discretionary" "Leisure Products")

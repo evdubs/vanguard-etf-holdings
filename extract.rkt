@@ -24,7 +24,10 @@
     #:exists 'replace))
 
 (define vanguard-etfs (hash "VTHR" "3354"
-                            "VTWO" "3351"))
+                            "VTWO" "3351"
+                            "VOO" "0968"
+                            "IVOO" "3342"
+                            "VIOO" "3345"))
 
 (define delay-interval 10)
 
